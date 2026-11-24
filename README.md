@@ -1,5 +1,9 @@
 # Weirdest Job Title: Blind Judge Showdown
 
+[![make.fun](https://make.fun/badge/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922.svg)](https://make.fun/c/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922)
+[![rank](https://make.fun/badge/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922/mfahmiq/weirdest-job-title/rank.svg)](https://make.fun/c/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922)
+[![reward](https://make.fun/badge/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922/mfahmiq/weirdest-job-title/reward.svg)](https://make.fun/c/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922)
+
 Entry for the [make.fun](https://make.fun) bounty
 **"Weirdest Job Title: Blind Judge Showdown"**
 (`u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922`).
