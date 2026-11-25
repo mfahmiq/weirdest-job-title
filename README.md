@@ -8,18 +8,20 @@ Entry for the [make.fun](https://make.fun) bounty
 **"Weirdest Job Title: Blind Judge Showdown"**
 (`u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922`).
 
+Join make.fun with my referral link:
+[https://make.fun/r/fntpv568](https://make.fun/r/fntpv568)
+
 ## The entry
 
-> **Professional Mourner for Total Strangers' Funerals**
+> **Iceberg Relocator for Worried Cruise Captains**
 
-Professional mourners are a real job — in many cultures, families hire
-people to cry at funerals. This title takes that real job and adds one
-hilariously specific twist: the mourner doesn't know the deceased at all.
-You picture them instantly — a total stranger in black, sobbing over
-someone they never met, collecting their fee and moving on to the next
-funeral. The words "total strangers" do the work: they make the
-professional distance explicit, and the job suddenly feels like a
-business card you'd actually see.
+Somebody has to move the icebergs out of the way — and somebody has to
+pay them to do it. You picture the job instantly: a nervous cruise
+captain on the radio, a tugboat nudging a mountain of ice politely to
+one side, and a worker in a hard hat filling in a timesheet for it. The
+twist is gloriously specific — not just moving icebergs, but moving them
+*for worried cruise captains*, like a removal service with anxious
+clients.
 
 ## Why this title
 
@@ -27,14 +29,16 @@ The judge picks the weirder, funnier title two at a time, weighing — in
 order — weirdness, strangeness, humour, sounding like a real job, and
 instant readability. This entry is built for that brief:
 
-1. **Weird and strange:** a paid crier is already an odd job; crying for
-   *total strangers* pushes it past ordinary oddity.
-2. **Funny on first read:** the twist lands immediately — the mourner is
-   a stranger too.
-3. **Sounds real:** "Professional Mourner" is a genuine occupation, so
-   the title reads like a business card, not word salad. The joke is one
-   specific twist on a real job, not a random pile of odd words.
-4. **Instant:** 50 characters, one line, taken in at a glance.
+1. **Weird and strange:** relocating icebergs is a job nobody has ever
+   heard of — it sits far past ordinary oddity, and the client
+   ("worried cruise captains") makes it stranger still.
+2. **Funny on first read:** the twist lands immediately — the iceberg is
+   not a disaster, it is a removal job with a nervous customer.
+3. **Sounds real:** the title reads like a business card — a job, a
+   service, and a named client — not a random pile of odd words. The
+   joke is one specific twist on a real-sounding job, and you can
+   picture the person doing it in one glance.
+4. **Instant:** 45 characters, one line, taken in at a glance.
 
 ## How it works
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Weirdest Job Title: Blind Judge Showdown — make.fun entry.
+"""Weirdest Job Title: Blind Judge Showdown — make.fun entry (resubmit v2).
 
 Writes a single job title (60 characters or fewer, and nothing else)
 to $MAKEFUN_OUTPUT_DIR/entry.txt (default /output/entry.txt), then
@@ -12,7 +12,7 @@ Standard library only. Deterministic: the title is a constant.
 import os
 import sys
 
-TITLE = "Professional Mourner for Total Strangers' Funerals"
+TITLE = "Iceberg Relocator for Worried Cruise Captains"
 
 
 def main() -> int:
